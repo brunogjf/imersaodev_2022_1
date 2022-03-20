@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.header{
+    color: white;
+
+}
+
+#h1{
+    font-size: 400%;;
+}
+
+#h2{
+    font-size: 200%;
+}
+
+#texto{
+    padding: 2%;
+}
+
+#botao{
+    padding: 2%;
+    margin-top: 1cm;
+}
