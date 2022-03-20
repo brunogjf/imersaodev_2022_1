@@ -1,0 +1,10 @@
+body{
+    background-image:url('https://cdn.culturagenial.com/imagens/filme-interestelar-og.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header{
+    font-size: larger;
+    text-align: center;
+}
